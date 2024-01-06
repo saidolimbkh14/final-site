@@ -1,0 +1,141 @@
+{
+    "products":[
+        {
+            "id":1,
+            "img":"https://cache.bmwusa.com/cosy.arox?pov=walkaround&brand=WBBM&vehicle=24DD&client=byo&paint=P0300&fabric=FKHSW&sa=S01CB,S0255,S0302,S0319,S0322,S03AG,S03DE,S03F7,S03MB,S0403,S0430,S0431,S0459,S0493,S04AT,S04UR,S0508,S0534,S0544,S05AC,S05AS,S0676,S06AC,S06AK,S06C4,S06U2,S06WC,S0775&quality=70&bkgnd=transparent&resp=png&angle=220&w=9800&h=8000&x=100&y=1100",
+            "name":"BMW i40",
+            "price":"Starting MSRP $52,200 ",
+            "speed":"Range from 227 to 307 miles"
+        },
+        {
+            "id":2,
+            "img":"https://cache.bmwusa.com/cosy.arox?pov=walkaround&brand=WBBM&vehicle=245T&client=byo&paint=P0300&fabric=FKSSW&sa=S0302,S0316,S0319,S0322,S03G3,S0403,S043L,S0459,S04FL,S04UR,S05AS,S05DM,S0674,S06AC,S06AK,S06C4,S06NX,S0775&quality=70&bkgnd=transparent&resp=png&angle=220&w=9800&h=8000&x=100&y=1100",
+            "name":"BMW i5",
+            "price":"Starting MSRP $66,200 ",
+            "speed":"Range from 227 to 397 miles"  
+        },
+        {
+            "id":3,
+            "img":"https://cache.bmwusa.com/cosy.arox?pov=walkaround&brand=WBBM&vehicle=24DD&client=byo&paint=P0300&fabric=FKHSW&sa=S01CB,S0255,S0302,S0319,S0322,S03AG,S03DE,S03F7,S03MB,S0403,S0430,S0431,S0459,S0493,S04AT,S04UR,S0508,S0534,S0544,S05AC,S05AS,S0676,S06AC,S06AK,S06C4,S06U2,S06WC,S0775&quality=70&bkgnd=transparent&resp=png&angle=220&w=9800&h=8000&x=100&y=1100",
+            "name":"BMW ix",
+            "price":"Starting MSRP $81,100 ",
+            "speed":"Range from 296 to 311 miles"  
+        },
+        {
+            "id":4,
+            "img":"https://cache.bmwusa.com/cosy.arox?pov=walkaround&brand=WBBM&vehicle=247R&client=byo&paint=P0C57&fabric=FVCSW&sa=S01F2,S0302,S0319,S0416,S043D,S0465,S046A,S04A2,S04FL,S04FM,S04NR,S04V1,S05AS,S05DM,S06AC,S06AK,S06C4,S06NX,S06U3,S06U7,S0775,S07M7&quality=70&bkgnd=transparent&resp=png&angle=220&w=9800&h=8000&x=100&y=1100",
+            "name":"BMW i7",
+            "price":"Starting MSRP $105,700 ",
+            "speed":"Range from 274 to 321 miles"  
+        },
+
+        {
+            "id":5,
+            "img":"https://top-tuning.ru/upload/images/news/101903/bmw_f90_m5_competition_1.jpg",
+            "name":"BMW m5",
+            "price":"Starting MSRP $125,700 ",
+            "speed":"Range from 300 to 371 miles"  
+        },
+
+        {
+            "id":6,
+            "img":"https://hitta.bmw.se/_next/image?url=https%3A%2F%2Fprod.cosy.bmw.cloud%2Fministorene%2FcosySec%3FCOSY-EU-100-7331c9Nv2Z7d5yKlHS9P3AKWL2JeiHlmRgpn23HGfvQFza5JE47UAzLekjnW16hhJPLZf1EoKGZdpkeGhNS4ctE6LVP2KVZb6989RkBzcSktaJJE47BdqfoUwWptvXhFUwkEaagdE7raFx6RCzIhtE6BmudhSId4k9VTCrm7AaCil6JiKGwgYXcjnWqVskbNDOBeagdIhceJnTNB9uvDO2kOHUtWPfbYf0jUi10t9gP050y0D6bHi4T4Wj9%2525wc3c8miftxdxIMw178z31htECUkdn17slGAzjJCrXpFksflZQ6KAnkXRaYWFOYQ5nmPKI0agOybfMBnvIT91WDO2B3iEXMIjedwskBBDMztIa5eqhk7BnDMLoACeLvhJHFlMJOou%2525KXhndHSfWQogW%2525V1PaH6GfNEbn%2525YJ10s9Ofw9E4riI15HscZwBELSrxRteaxNZ857MnDxRUgChOYC5GvloImGgp2XHBy0v6jQ%2525eTg2YDafMgPjmqn1hv8DyLOEVZpqTJIsNxyL3uBr0A2JdSeZ4F7uzVMRcKlSkNh5xQiVA0og8x%2525NF4HvUcd0Kc%25252Gy74WxfjpUgcP81D7kkxbUEqCB889GsLlZHUiprJXR4Gw6Zu6NWptYRSYA667m5VmuHYCygNyOomlTv0TcryX3243d0TQdjcdX13azDxzQndnkq8kadzOALUAHSkIFJGeEfABNei4%25253gtUDb2&w=3840&q=100",
+            "name":"BMW m4",
+            "price":"Starting MSRP $130,200 ",
+            "speed":"Range from 288 to 331 miles"  
+        },
+
+        {
+            "id":7,
+            "img":"https://www.autobics.com/wp-content/uploads/2023/01/2023-BMW-X7-xDrive40i-Black-Sapphire-Metallic.jpg",
+            "name":"BMW x7",
+            "price":"Starting MSRP $230,700 ",
+            "speed":"Range from 274 to 321 miles"  
+        },
+
+        {
+            "id":8,
+            "img":"https://file.kelleybluebookimages.com/kbb/base/evox/CP/15264/2023-BMW-X6-front_15264_032_2400x1800_300_nologo.png",
+            "name":"BMW x6",
+            "price":"Starting MSRP $77,777 ",
+            "speed":"Range from 244 to 300 miles"  
+        },
+
+        {
+            "id":9,
+            "img":"https://www.bmw.uz/content/dam/bmw/common/all-models/m-series/m8-gran-coupe/2022/onepager/bmw-m8-gran-coupe-onepager-gallery-m8-gc-thumbnail-01.jpg",
+            "name":"BMW m8 coupe",
+            "price":"Starting MSRP $88,777 ",
+            "speed":"Range from 250 to 350 miles"  
+        },
+        {
+            "id":10,
+            "img":"https://www.bmw.in/content/dam/bmw/marketIN/bmw_in/all-models/x-series/X3/2023/X3%20xLine.png",
+            "name":"BMW x3",
+            "price":"Starting MSRP $34,777 ",
+            "speed":"Range from 120 to 250 miles "  
+        },
+        {
+            "id":11,
+            "img":"https://d2ivfcfbdvj3sm.cloudfront.net/7fc965ab77efe6e0fa62e4ca1ea7673bb65844520e1e3d8e88cb10/stills_0640_png/MY2023/52535/52535_st0640_116.png",
+            "name":"BMW x4",
+            "price":"Starting MSRP $45,537 ",
+            "speed":"Range from 160 to 240 miles "  
+        },
+        {
+            "id":12,
+            "img":"https://cdn.24net.cz/5/obrazek/ikonka-20976",
+            "name":"BMW x5",
+            "price":"Starting MSRP $89,544 ",
+            "speed":"Range from 220 to 350 miles "  
+        },
+        {
+            "id":13,
+            "img":"https://www.bmw.uz/content/dam/bmw/common/all-models/m-series/m2-coupe/2022/Navigation/bmw-m-series-m2-coupe-lci-modelfinder.png",
+            "name":"BMW m2",
+            "price":"Starting MSRP $79,543 ",
+            "speed":"Range from 110 to 294 miles "  
+        },
+
+        {
+            "id":14,
+            "img":"https://www.bmw.co.nz/content/dam/bmw/common/all-models/m-series/m3-sedan/2023/navigation/bmw-3-series-cs-m-automobiles-modelfinder.png",
+            "name":"BMW m3",
+            "price":"Starting MSRP $129,543 ",
+            "speed":"Range from 110 to 289 miles "  
+        },
+
+        {
+            "id":15,
+            "img":"https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/7c30a965-4705-4c71-9531-70c98649d598/0604b141-9e41-43e6-8c12-f0549b580c69.png",
+            "name":"BMW m4",
+            "price":"Starting MSRP $111,543 ",
+            "speed":"Range from 123 to 295 miles "  
+        },
+
+        {
+            "id":16,
+            "img":"https://www.yomacarmodel.ca/cdn/shop/products/HD02_REV1_13e6b925-657f-416b-a060-3a692257e8f9.JPG?v=1523061782&width=1920",
+            "name":"BMW m6",
+            "price":"Starting MSRP $159,333 ",
+            "speed":"Range from 230 to 321 miles "  
+        },
+
+        {
+            "id":17,
+            "img":"https://www.bmw.uz/content/dam/bmw/common/all-models/7-series/sedan/2019/navigation/bmw-7-series-sedan-modelfinder-stage2-890x501.png",
+            "name":"BMW m7",
+            "price":"Starting MSRP $233,543 ",
+            "speed":"Range from 110 to 294 miles "  
+        },
+
+        {
+            "id":18,
+            "img":"https://www.bhmpics.com/downloads/white-bmw-i8/38.roadster-white-background-2.jpg",
+            "name":"BMW i8",
+            "price":"Starting MSRP $130 ",
+            "speed":"Range from 110 to 244 miles "  
+        }
+        
+    ]
+}
